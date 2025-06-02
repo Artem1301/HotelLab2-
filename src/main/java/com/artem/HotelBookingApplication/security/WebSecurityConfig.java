@@ -71,12 +71,6 @@ public class WebSecurityConfig {
         return http.build();
     }
 
-    // @Bean(name = "multipartResolver")
-    // public CommonsMultipartResolver multipartResolver() {
-    //     CommonsMultipartResolver multipartResolver = new CommonsMultipartResolver();
-    //     return multipartResolver;
-    // }
-
 
 
 
